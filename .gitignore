@@ -4,3 +4,5 @@ Assignment/hw2/wandb/
 resource/
 Assignment/hw3/wandb/
 Assignment/hw3/FashionMNIST/
+Assignment/hw3/checkpoints/
+*.log
